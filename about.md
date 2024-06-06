@@ -13,9 +13,6 @@ The event is targeted at, and organized by, PhD students and postdocs, but it’
 
 Registration for in-person and virtual participation to the SBW 2024 is open now! Please [click here](https://docs.google.com/forms/d/e/1FAIpQLScRN2BbuBoD4W1o6xO13wd4SE38HT3Pwr0wzOF594hsn8IAPQ/viewform?usp=sharing) to register. The last day to register is October 1, 2024. 
 
-<a href="[http://example.com/](https://docs.google.com/forms/d/e/1FAIpQLScRN2BbuBoD4W1o6xO13wd4SE38HT3Pwr0wzOF594hsn8IAPQ/viewform?usp=sharing)" target="_blank">Hello, world!</a>
-
-
 # Abstract submission
 
 Abstract submission for poster and pral presentations at the SBW 2024 is open now! Please [click here](https://docs.google.com/forms/d/e/1FAIpQLSdGFBj7f6cx49fU-yqM9MLOuTlayjOEHSc-OHSUiQl4wNKz6g/viewform?usp=sharing) to submit your abstract. The last day to submit an abstract is September 2, 2024. 
